@@ -1,4 +1,4 @@
-# CIS106-FRANCIS-RUKIDI
+# CIS106 Francis - Rukidi
 
 ## Assignment 1
 
